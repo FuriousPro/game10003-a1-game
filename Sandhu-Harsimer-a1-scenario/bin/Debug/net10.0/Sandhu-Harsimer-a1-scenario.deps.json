@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sandhu-Harsimer-a1-scenario/1.0.0": {
+        "runtime": {
+          "Sandhu-Harsimer-a1-scenario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sandhu-Harsimer-a1-scenario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\bin\Debug\net10.0\Sandhu-Harsimer-a1-scenario.exe
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\bin\Debug\net10.0\Sandhu-Harsimer-a1-scenario.deps.json
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\bin\Debug\net10.0\Sandhu-Harsimer-a1-scenario.runtimeconfig.json
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\bin\Debug\net10.0\Sandhu-Harsimer-a1-scenario.dll
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\bin\Debug\net10.0\Sandhu-Harsimer-a1-scenario.pdb
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\Sandhu-Harsimer-a1-scenario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\Sandhu-Harsimer-a1-scenario.AssemblyInfoInputs.cache
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\Sandhu-Harsimer-a1-scenario.AssemblyInfo.cs
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\Sandhu-Harsimer-a1-scenario.csproj.CoreCompileInputs.cache
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\Sandhu-Harsimer-a1-scenario.sourcelink.json
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\Sandhu-Harsimer-a1-scenario.dll
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\refint\Sandhu-Harsimer-a1-scenario.dll
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\Sandhu-Harsimer-a1-scenario.pdb
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\Sandhu-Harsimer-a1-scenario.genruntimeconfig.cache
+C:\Users\Harsimer\source\repos\game10003-a1-game\Sandhu-Harsimer-a1-scenario\obj\Debug\net10.0\ref\Sandhu-Harsimer-a1-scenario.dll
